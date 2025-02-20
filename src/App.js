@@ -27,6 +27,6 @@ export function render() {
       renderQuoteGenerator();
       break;
     default:
-      renderLandingPage();
+      renderQuoteGenerator();
   }
 }
