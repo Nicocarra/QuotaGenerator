@@ -6,11 +6,24 @@ export function renderLandingPage() {
     <header>
       <h1>Quota Generator</h1>
       <nav>
-        <button id="loginBtn">Login</button>
-        <button id="signupBtn">Sign Up</button>
+        <button class="topMenu">Features</button>
+        <button class="topMenu">Support</button>
+        <button class="topMenu">Pricing</button>
+        <button class="navButton">Login</button>
+        <button class="navButton">Sign Up</button>
       </nav>
     </header>
     <main>
+      <section class="hero">
+        <h2>Fast Quotes for Busy Professionals</h2>
+        <p>Create detailed quotes in minutes and impress your clients.</p>
+        <button id="getStartedBtn">Get Started</button>
+      </section>
+      <section class="hero">
+        <h2>Fast Quotes for Busy Professionals</h2>
+        <p>Create detailed quotes in minutes and impress your clients.</p>
+        <button id="getStartedBtn">Get Started</button>
+      </section>
       <section class="hero">
         <h2>Fast Quotes for Busy Professionals</h2>
         <p>Create detailed quotes in minutes and impress your clients.</p>
