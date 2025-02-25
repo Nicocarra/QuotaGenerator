@@ -42,7 +42,7 @@ export function renderQuoteGenerator() {
       </form>
     </main>
     <footer>
-      <p>&copy; 2023 Quota Generator</p>
+      <p>&copy; 2025 Quota Generator</p>
     </footer>
   `;
 
