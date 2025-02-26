@@ -13,6 +13,8 @@ export function renderLoginPage() {
         <label for="password">Password:</label>
         <input type="password" id="password" name="password" required>
         <button type="submit">Login</button>
+        <button type="signup">Sign Up</button>
+
       </form>
     </main>
     <footer>

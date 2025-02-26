@@ -15,7 +15,7 @@ export function render() {
   app.innerHTML = ''; // Clear current content
   switch (currentPage) {
     case 'landing':
-      renderQuoteGenerator();
+      renderLandingPage();
       break;
     case 'login':
       renderLoginPage();

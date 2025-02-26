@@ -14,6 +14,8 @@ export function renderUserDashboard() {
         <h2>Welcome!</h2>
         <p>Ready to create a quote? Click below.</p>
         <button id="createQuoteBtn">Create New Quote</button>
+        <h2>Your Quotes</h2>
+        <ul id="quoteList"></ul>               //LOGIC FOR THE LIST OF QUOTES
       </section>
     </main>
     <footer>
